@@ -41,7 +41,7 @@ Imports:
     RColorBrewer,
     BSgenome
 Depends:
-    R (>= 3.4)
+    R (>= 3.3)
 Suggests:
     JASPAR2016,
     BSgenome.Hsapiens.UCSC.hg19,
